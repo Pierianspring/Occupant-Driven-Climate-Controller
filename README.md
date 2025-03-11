@@ -4,7 +4,7 @@ MATLAB tutorial simulating indoor temperature regulation using fixed vs. occupan
 - **Name**: Dr. Ir. Ali Youssef
 - **Organization**: Wageningen University & Research (WUR), Computational Adaptation Physiology Lab.; Manitoba University (Digital Agroecosystems and Biosystems Lab.)
 - **Email**: ali.youssef@wur.nl; ali.youssef@umanitoba.ca; ayoussefgm@gmail.com 
-- **GitHub**: [Your GitHub Profile](https://github.com/Pierianspring)
+- **GitHub**: (https://github.com/Pierianspring)
 
 This MATLAB simulation models a 24-hour climate control system with:
 
