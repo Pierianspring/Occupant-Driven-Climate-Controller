@@ -6,6 +6,7 @@ MATLAB tutorial simulating indoor temperature regulation using fixed vs. occupan
 - **Email**: ali.youssef@wur.nl; ali.youssef@umanitoba.ca; ayoussefgm@gmail.com 
 - **GitHub**: (https://github.com/Pierianspring)
 
+## Overview
 This MATLAB simulation models a 24-hour climate control system with:
 
 - External Temperature: Sinusoidal variation (10°C avg, 5°C amplitude).
